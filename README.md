@@ -23,27 +23,6 @@ cd occams-chatbot
 
 ---
 
-## ⚙️ Setup Instructions (Detailed)
-
-### 2. Set Up Python Virtual Environment (*Optional*)
-> Only needed if you plan to use Python tools during development.
-
-#### ✅ Ensure Python is Installed
-```bash
-python --version  # or python3 --version
-
-### ✅ Create Virtual Environment (Optional)
-> Only needed if using Python tools during development.
-
-```bash
-python -m venv venv
-
-### ✅ Activate Virtual Environment
-
-```bash
-.\venv\Scripts\activate
-
----
 
 ### ✅ Install Node.js Dependencies
 
