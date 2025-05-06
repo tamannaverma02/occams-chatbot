@@ -7,7 +7,6 @@ A Node.js-based chatbot using **LangChain** and **OpenAI's GPT** model to answer
 ## 📋 Prerequisites
 
 - Node.js (v18.17.1 or higher)
-- Python (v3.8 or higher, *optional* for virtual environment)
 - Visual Studio Code
 - OpenAI API key (for ChatOpenAI integration)
 
