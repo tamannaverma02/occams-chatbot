@@ -1,0 +1,52 @@
+{
+    "company_info": {
+      "name": "Occams Advisory",
+      "founded": 2012,
+      "headquarters": "Sarasota, FL",
+      "description": "Occams Advisory is a global financing advisory and professional services firm that provides Fortune 500-level expertise to small and medium-sized businesses.",
+      "mission": "Serve as a trusted advisor and growth partner through the business lifecycle, from Inception to Infinity."
+    },
+    "services": [
+      {
+        "name": "Tax Advisory",
+        "description": "Specialized tax advisory services including corporate taxes, international tax issues, transfer pricing, and R&D tax credits."
+      },
+      {
+        "name": "Business Services & Growth Incubation",
+        "description": "Strategic planning, operational efficiency enhancements, risk assurance, technology advisory, and business transformation services."
+      },
+      {
+        "name": "Capital Markets & Investment Banking",
+        "description": "Assists with mergers and acquisitions, capital raising, financial restructuring, and exit readiness strategies."
+      },
+      {
+        "name": "Financial Technology & Payment Solutions",
+        "description": "Tailor-made solutions incorporating the latest financial technologies to simplify and secure financial operations."
+      }
+    ],
+    "awards": [
+      {
+        "name": "Inc. 5000",
+        "description": "Ranked on the Inc. 5000 list of fastest-growing private companies in America for eight out of nine years.",
+        "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2024]
+      },
+      {
+        "name": "Financial Times Fastest-Growing Companies",
+        "description": "Recognized in the Financial Times' 2025 list of the Americas' Fastest-Growing Companies.",
+        "year": 2025
+      },
+      {
+        "name": "Fortune America's Most Innovative Companies",
+        "description": "Named among America's Most Innovative Companies by Fortune in 2023.",
+        "year": 2023
+      }
+    ],
+    "social_responsibility": {
+      "description": "Contributes 1-2% of top-line revenue to charitable causes globally, funding educational opportunities and providing essential items to over 45,000 children and adults across North America, Africa, and South Asia."
+    },
+    "contact": {
+      "website": "https://www.occamsadvisory.com",
+      "phone": "+1 212-531-1111",
+      "address": "1962 Main Street, Suite 420, Sarasota, FL 34236"
+    }
+  }
